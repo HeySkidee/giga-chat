@@ -16,6 +16,7 @@ Chat with giga chads from all over the world!
 
 ## Local Setup
 
-- `npm install`   
-
-- `npm run dev`
+1. Copy `.env.example` to `.env`
+2. Add your Supabase credentials to `.env`
+3. `npm install`      
+4. `npm run dev`

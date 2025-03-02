@@ -34,6 +34,9 @@ const App = () => {
   async function signIn() {
     await supabase.auth.signInWithOAuth({
       provider: 'google',
+      options: {
+        redirectTo: import.meta.env.VITE_REDIRECT_URL
+      }
     });
   };
 
