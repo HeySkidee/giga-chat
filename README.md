@@ -1,4 +1,4 @@
-# Giga Chat 🗿 
+# [Giga Chat](https://giga-chats.now.sh) 🗿 
 
 Chat with giga chads from all over the world!
 
